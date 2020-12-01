@@ -1,7 +1,9 @@
-//LSN1 Steuerprogramm
-// Update December 2019: Serial Readout over TX(0) and RX(1) ports. In order to send/receive data over RX/TX pins, you will have to change all occurencies of "Serial" to "Serial1" 
-
-
+/***********************************************************************
+  Programmer:
+    Andreas Spielhofer
+    Date: 20.08.2020
+    Version: LSN1, Jul 2019
+************************************************************************/
 
 #include <Arduino.h>
 
